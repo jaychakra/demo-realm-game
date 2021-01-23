@@ -1,0 +1,15 @@
+{
+    "app_id": "demo-realm-game-backend-kedlm",
+    "config_version": 20200603,
+    "name": "demo-realm-game-backend",
+    "location": "AU",
+    "deployment_model": "LOCAL",
+    "security": {},
+    "custom_user_data_config": {
+        "enabled": false
+    },
+    "sync": {
+        "development_mode_enabled": false
+    },
+    "environment": "none"
+}
